@@ -13,8 +13,6 @@ width: 100%;
 height: 100vh;
 padding: 10px;
 border-radius: 8px;
-/* box-sizing: 12px, 12px, 20px #bcbcbc,
-            -12px, -12px, 20px, #ffffff; */
 display: flex;
 justify-content: center;
 align-items: center;
@@ -45,8 +43,6 @@ margin: 10px;
     display: flex;
     justify-content: flex-end;
     margin: 20px, 0px;
-    /* border: #726e6e;
-    border-radius: 12px; */
  }
 
  form .display input{
@@ -54,7 +50,6 @@ margin: 10px;
     text-align: right;
     font-size: 40px;
     padding: 12px;
-    /* box-shadow: none; */
  }
 
  form input.equal{
